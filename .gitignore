@@ -1,0 +1,27 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+**/sub/aclocal.m4
+**/sub/Makefile.in
+**/sub/src/Makefile.in
+**/sub/config.h.in
+**/sub/configure
+**/sub/install-sh
+**/sub/missing
+**/sub/*~
+**/sub/depcomp
+**/sub/autom4te.cache
+**/sub/ar-lib
+**/sub/compile
+
+*.a
+**/install
+**/_skbuild
